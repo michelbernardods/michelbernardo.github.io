@@ -1,6 +1,6 @@
 ## Preview
 
-<img alt="Be The Hero" src="https://github.com/michelbernardods/michelbernardo.github.io/blob/master/perfil.PNG"  />]
+<img alt="Be The Hero" src="https://github.com/michelbernardods/michelbernardo.github.io/blob/master/perfil.PNG"  />
 
 **[View Live Preview](https://blackrockdigital.github.io/startbootstrap-resume/)**
 
